@@ -24,7 +24,6 @@ public class Work1 {
             mult *=i;
         }
         System.out.println("Факториал числа " + k + " = " + mult);
-
     }
 }
 

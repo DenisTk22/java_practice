@@ -33,19 +33,5 @@ public class Work3 {
             sum = a / b;
             System.out.println("Ответ: " + sum);
         }
-        //System.out.println(sum);
-        // if(i == -1) break;
-        //System.out.println("Введите первое число\nВведите опреатор: 1 = +, 2 = -, 3 = *, 4 = /\nВведите второе число");
-
     }
 }
-
-// Scanner scanner = new Scanner(System. in );
-// int a, b, c;
-// System.out.println("Введите числа");
-// a = scanner.nextInt();
-// b = scanner.nextInt();
-// c = scanner.nextInt();
-// System.out.println("первое число: " + a);
-// System.out.println("второе число: " + b);
-// System.out.println("третье число: " + c);
